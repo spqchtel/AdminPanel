@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gbittner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ece5d8b2e87622c8a6bc86b1a4f331fab7826551")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25f7701299e939f8e4bc455ccd52f04b1ced0384")]
 [assembly: System.Reflection.AssemblyProductAttribute("gbittner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gbittner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
